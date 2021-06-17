@@ -1,5 +1,4 @@
 *.launch
-.cproject
 project.mk
 tags
 .settings
